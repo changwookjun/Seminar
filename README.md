@@ -34,7 +34,8 @@ https://nlp.gitbook.io/book/
   
 * [ReinforcementLearning](https://github.com/thezili-changwook/Seminar/tree/master/ReinforcementLearning)   
   + [OpenAI-Tutorial.ipynb](https://github.com/thezili-changwook/Seminar/blob/master/ReinforcementLearning/OpenAI-Tutorial.ipynb)
-  + [Open AI_2_Cart_Pole.ipynb](https://github.com/thezili-changwook/Seminar/blob/master/ReinforcementLearning/Open%20AI_2_Cart_Pole.ipynb  
+  + [Open AI_2_Cart_Pole.ipynb](https://github.com/thezili-changwook/Seminar/blob/master/ReinforcementLearning/Open%20AI_2_Cart_Pole.ipynb)  
+  
 
 
 Author
