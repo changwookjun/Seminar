@@ -39,4 +39,4 @@ https://nlp.gitbook.io/book/
 
 
 Author
-ChangWookJun / @thezili-changwook
+ChangWookJun / @changwookjun
