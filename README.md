@@ -38,5 +38,5 @@ https://nlp.gitbook.io/book/
   
 
 
-Author
-ChangWookJun / @changwookjun
+# Author
+ChangWookJun / @changwookjun (changwookjun@gmail.com)
